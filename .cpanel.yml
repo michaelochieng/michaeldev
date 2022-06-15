@@ -1,5 +1,5 @@
 ---
-deployments:
+deployment:
     tasks:
         - export DEPLOYPATH=/home/occident/michaeldev.com/
         - /bin/cp index.html $DEPLOYPATH #Copy specific file to destination from root
